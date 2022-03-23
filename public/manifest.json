@@ -1,6 +1,6 @@
 {
   "name": "Kindle Party",
-  "description": "",
+  "description": "Kindle party is a browser extension to synchronize Kindle pages and adds group chat.",
   "icons": { 
     "16": "icon16.png",
     "48": "icon48.png",
