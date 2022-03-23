@@ -1,7 +1,5 @@
 # Kindle Party
 
-----
-
 ## Installation Instructions
 Google Chrome
 
