@@ -8,7 +8,7 @@
   },
   "manifest_version": 3,
   "action": {
-    "default_popup": "popup.html",
+    "default_popup": "index.html",
     "default_icon": {
       "128": "icon128.png"
     }
