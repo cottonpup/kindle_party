@@ -6,7 +6,13 @@
     "48": "icon48.png",
     "128": "icon128.png" 
   },
-  "manifest_version": 2,
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icon128.png"
+    }
+  },
   "version": "1.0",
   "display": "standalone",
   "theme_color": "#000000",
